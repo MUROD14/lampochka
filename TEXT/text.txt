@@ -1,0 +1,4 @@
+document.querySelector(".parent"); querySelector da . bilan chaqiramiz xuddi css kabi
+let parentChild = document.querySelector(".parent div")   parentni ichindaki bolasi degan kod bu 
+querySelector bu css dakindin atib chaqiramiz bunda id bolsa # class bolsa.
+let btns = document.querySelectorAll(".btn"); ikkidona class bir hil bolsa all ni ishlatamiz
